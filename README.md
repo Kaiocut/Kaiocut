@@ -4,7 +4,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiolimac)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-manoel-3934b0252/)
 
-![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiocut&theme=blue-green) ##   ![Hops GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiocut&theme=blue-green)
+<table style="width:100%">
+  <tr>
+    <td style="padding-right:20px">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kaiocut&theme=blue-green" alt="Kaio GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiocut&theme=blue-green" alt="Hops GitHub stats">
+    </td>
+  </tr>
+</table>
 
 ## Tecnologias que eu uso no meu dia
 
