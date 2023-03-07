@@ -16,4 +16,4 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, distribuições Linux/Unix e educação.
+Apaixonado por tecnologia, distribuições Linux/Unix e educação..
