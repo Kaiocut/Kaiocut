@@ -4,7 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiolimac)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-manoel-3934b0252/)
 
-![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiocut&show_icons=true&theme=dark&count_private=true)
+![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiocut&theme=blue-green)
+
+![Hops GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiocut&theme=blue-green)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,4 +18,4 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, distribuições Linux/Unix e educação..
+Apaixonado por tecnologia, distribuições Linux/Unix e educação.
