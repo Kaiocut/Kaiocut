@@ -7,10 +7,10 @@
 <table style="width:100%">
   <tr>
     <td style="padding-right:20px">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kaiocut&theme=blue-green" alt="Kaio GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kaiocut&theme=blue-green" alt="Kaio GitHub stats" style="border: none;">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiocut&theme=blue-green" alt="Hops GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiocut&theme=blue-green" alt="Hops GitHub stats" style="border: none;">
     </td>
   </tr>
 </table>
